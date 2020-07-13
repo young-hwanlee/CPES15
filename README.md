@@ -6,7 +6,7 @@ Synthetic PMU data were generated using the PSS/E simulator [1]. The tested gird
 
 <img src="https://user-images.githubusercontent.com/67979833/87258801-6cde9b80-c474-11ea-8042-cf8c81847f16.png" width=50% height=50%>
 
-Two scenarios were simulated. In Scenario 1, the transmission line connecting buses 3001 and 3003 is tripped at t = 10 sec and then closed at t = 70 sec. In Scenario 2, the line connecting buses 151 and 201 is tripped at t = 100 sec, followed by a trip of the generator at bus 102 at t = 200 sec. Subsequently, the previously tripped line is closed at t = 250 sec. The voltage magnitudes for both Scenario 1 and Scenario 2 are plotted as follows:
+Two scenarios were simulated. In Scenario 1, the transmission line connecting buses 3001 and 3003 is tripped at t = 10 sec and then closed at t = 70 sec. In Scenario 2, the line connecting buses 151 and 201 is tripped at t = 100 sec, followed by a trip of the generator at bus 102 at t = 200 sec. Subsequently, the previously tripped line is closed at t = 250 sec. Only the voltage magnitudes are used for simplicity and the voltage magnitudes for both Scenario 1 and Scenario 2 are plotted as follows:
 
 <table align='center'>
 <tr align='center'>
