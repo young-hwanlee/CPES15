@@ -1,6 +1,9 @@
 # Robust Subspace Approaches for Analyzing Incomplete Synchrophasor Measurements
 Published in: 9th IFAC Symposium on Control of Power and Energy Systems. For more information, please refer to the paper.
 
+## Abstract
+Synchrophasor measurements can significantly enhance the monitorability of the power grid by revealing the dynamics of grid operation. However, due to high-rate samples collected in large volume, big data challenges emerge to efficiently process the data. The present work advocates robust subspace approaches including robust principal component analysis and subspace clustering, to identify low-dimensional structures in the synchrophasor data, even when portions of measurements are missing due to sensor or network issues, and outliers are present in the data. The outliers can model abnormal dynamics or cyber-attacks in the grid. Numerical tests using simulated synchrophasor data illustrate the utility of the approaches.
+
 ## Dataset
 Synthetic PMU data were generated using the PSS/E simulator [1]. The tested gird containing 20 buses and 6 generators is shown below:
 
