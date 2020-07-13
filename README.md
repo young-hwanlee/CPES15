@@ -55,6 +55,6 @@ The figures below show the performance of outlier detection in the two scenarios
 </tr>
 </table>
 
-## Reference
+## References
 [1] Siemens, PSS/E Documentation, Version 33.5, 2013. 
 
